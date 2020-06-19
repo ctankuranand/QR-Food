@@ -1,0 +1,27 @@
+.navbar{
+  top: 0;
+  left: 0;
+  position: sticky;
+  width:100%;
+  background: #618274;
+  height: 56px;
+  z-index:1;
+
+}
+.navbar_logo a{
+  color: white;
+  text-decoration: none;
+  font-size: 1.5rem;
+  font-family: Futura;
+  float: none;
+  position: absolute; 
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+.navbar-items a:hover,
+.navbar-items a:active {
+  color: #241523
+}

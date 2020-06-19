@@ -1,0 +1,44 @@
+.overall{
+  margin-left: 35%;
+  position: static;
+}
+
+.title{
+  margin-left:0px;
+}
+
+.topline{
+  position: sticky;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+
+.overall2{
+  margin-left: 20px;
+  display: flex;
+}
+
+.food_name{
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.thai_name{
+  margin-left: 10px;
+  font-size: 20px;
+}
+
+.food_des{
+  line-height: 2px;
+  margin-left:20px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+
+}
+
+.price{
+  position: absolute;
+  left: 65%;
+  font-size: 20px;
+  margin-top: 15px;
+}
