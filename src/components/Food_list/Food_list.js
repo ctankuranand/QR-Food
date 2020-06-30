@@ -10,7 +10,7 @@ const Foodlist = props => (
       <div className="thai_name"> {props.th} </div>
       <div className="price"> ฿ {props.price} </div>
     </div>
-      <div className="food_des"> Chicken stir fried with basil leaves </div>
+      <div className="food_des"> {props.des} </div>
 
   </header>
 
