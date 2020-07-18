@@ -1,0 +1,31 @@
+.overall1  {
+  margin-left: 18%;
+  margin-bottom: 1%;
+}
+
+#english{
+  margin-right: 2%;
+}
+
+#thai{
+  margin-right: 2%;
+}
+
+#price{
+  margin-right: 2%;
+  width: 5%;
+}
+
+#description{
+  margin-right: 2%;
+  width:15%;
+  height: 60px;
+  font-family: Arial;
+}
+
+#addon{
+  margin-right: 2%;
+  width: 10%;
+  height: 60px;
+  font-family: Arial;
+}
